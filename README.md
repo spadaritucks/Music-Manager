@@ -163,3 +163,20 @@
 - 2ª violação: suspensão temporária (7 dias)
 - 3ª violação: rebaixamento de hierarquia
 - Furto comprovado: banimento permanente + processo legal
+
+## Ferramentas Necessarias
+### Frontend
+- [ ] NextJS
+- [ ] Tailwind CSS + ShadcnUI
+- [ ] React Hook Form
+- [ ] ZOD
+- [ ] Dayjs
+
+### Backend
+- [ ] Java + Spring Flamework
+- [ ] Spring Web
+- [ ] Lombok
+- [ ] Docker
+- [ ] Apache Kafka
+- [ ] PostgresSQL
+- [ ] AWS S3 
